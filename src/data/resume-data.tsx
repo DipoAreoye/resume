@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "London, England, GMT",
   locationLink: "https://www.google.com/maps/place/London",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Full Stack Engineer & founder focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Swift & Kotlin",
+    "I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Swift & Kotlin",
   avatarUrl: "https://media.licdn.com/dms/image/D4E03AQGl7hhBTs-QTQ/profile-displayphoto-shrink_800_800/0/1690739787247?e=1712188800&v=beta&t=ZScu27MYIhupOe6-wnM6hapfnMb7yyuqIUAPvv4useI",
   contact: {
     email: "dipoareoye@gmail.com",

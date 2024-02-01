@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       start: "2015",
       end: "2016",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "Co-led the redesign & redevelopment and of an award winning VOIP react front end webapp",
     },
   ],
   skills: [

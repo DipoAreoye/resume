@@ -68,7 +68,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2023",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "to add desc",
     },
     {
       company: "Yup",
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2020",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "to add desc",
     },
     {
       company: "LoopUp",

@@ -132,7 +132,7 @@ export default function Page() {
                   </h4>
                 </CardHeader>
                 <CardContent className="mt-2 text-xs">
-                  {work.description}
+                  <div dangerouslySetInnerHTML={{ __html: work.description.replace(/\n/g, '<br />') }} />
                 </CardContent>
               </Card>
             );

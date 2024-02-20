@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2020",
       description:
-        "Working primarily on Android application building features from end to end, managing releases and application stability. \n• Highlights of features include chat functionality between student and tutors, local chat bot, development of an in line webview to support displaying and communicating with webapp.\n• Continuously adopting modern development practices/frameworks such as Android Architecture Components.\n• Similarly a key contributor to iOS project.",
+        "Ownership of native iOS and Android applications building features from end to end, managing releases and application stability.\nHighlights of features include chat functionality between student and tutors, local chat bot, development of an in-line webview to support displaying and communicating with webapp for cross platform features",
     },
     {
       company: "LoopUp",
@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       start: "2015",
       end: "2016",
       description:
-        "Co-led the redesign & redevelopment and of an award winning VOIP react front end webapp",
+        "Core front end developer contributing to redevelopment and of an award winning VOIP web applicaiton",
     },
   ],
   skills: [
@@ -120,11 +120,11 @@ export const RESUME_DATA = {
       title: "Lara",
       techStack: ["Side Project", "TypeScript", "open", "Browser Extension"],
       description:
-        "Browser extension that records everything happening in a web application",
+        "An sms based AI chat bot to assist with tech support issues",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "ask-lara.com",
+        href: "https://ask-lara.com",
       },
     },
     {

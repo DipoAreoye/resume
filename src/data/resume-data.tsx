@@ -68,7 +68,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2023",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Guided a diverse team of engineers and designers in the development and successful launch of various consumer software and web3 products from inception to market.\n Participated in YCombinator S20, raising a $150k pre seed round",
     },
     {
       company: "Yup",
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2020",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Working primarily on Android application building features from end to end, managing releases and application stability. \n• Highlights of features include chat functionality between student and tutors, local chat bot, development of an in line webview to support displaying and communicating with webapp.\n• Continuously adopting modern development practices/frameworks such as Android Architecture Components.\n• Similarly a key contributor to iOS project.",
     },
     {
       company: "LoopUp",
@@ -109,7 +109,7 @@ export const RESUME_DATA = {
         "TypeScript",
         "Next.js",
       ],
-      description: "A Social Journal",
+      description: "A Social Journal, co founding enginner from 0-100k users",
       logo: ConsultlyLogo,
       link: {
         label: "jotapp.ai",

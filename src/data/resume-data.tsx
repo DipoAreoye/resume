@@ -22,7 +22,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Dipo Areoye",
   initials: "DA",
-  location: "London, England, GMT",
+  location: "London / New York",
   locationLink: "https://www.google.com/maps/place/London",
   about:
     "Full Stack Engineer & founder focused on building products with extra attention to detail",
@@ -31,7 +31,7 @@ export const RESUME_DATA = {
   avatarUrl: "https://media.licdn.com/dms/image/D4E03AQGl7hhBTs-QTQ/profile-displayphoto-shrink_800_800/0/1690739787247?e=1712188800&v=beta&t=ZScu27MYIhupOe6-wnM6hapfnMb7yyuqIUAPvv4useI",
   contact: {
     email: "dipoareoye@gmail.com",
-    tel: "+447473088881",
+    tel: "+14154256753",
     social: [
       {
         name: "GitHub",
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2020",
       description:
-        "Ownership of native iOS and Android applications building features from end to end, managing releases and application stability.\nHighlights of features include chat functionality between student and tutors, local chat bot, development of an in-line webview to support displaying and communicating with webapp for cross platform features",
+        "Ownership of native iOS and Android applications building features from end to end, managing releases and application stability.\nHighlights of features include chat functionality between student and tutors, local chat bot & in-line webview to support displaying and communicating with webapp for cross platform features",
     },
     {
       company: "LoopUp",
@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       start: "2015",
       end: "2016",
       description:
-        "Core front end developer contributing to redevelopment and of an award winning VOIP web applicaiton",
+        "Core feature team member responsible for maintaining core online platform and developing new award winning web VOIP client (ReactJS).",
     },
   ],
   skills: [

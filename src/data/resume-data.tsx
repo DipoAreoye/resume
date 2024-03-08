@@ -63,12 +63,12 @@ export const RESUME_DATA = {
       company: "Icon",
       link: "https://joinicon.com",
       badges: ["San Francisco"],
-      title: "Co-Founder",
+      title: "Technical Co-Founder",
       logo: ParabolLogo,
       start: "2020",
       end: "2023",
       description:
-        "Guided a diverse team of engineers and designers in the development and successful launch of various consumer software and web3 products from inception to market.\n Participated in YCombinator S20, raising a $150k pre seed round",
+        "Led a cross-functional team of engineers and designers in the development and launch of various consumer software and web3 products from inception to market.\nParticipated in YCombinator S20, raising a $150k pre seed round",
     },
     {
       company: "Yup",
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2020",
       description:
-        "Ownership of native iOS and Android applications building features from end to end, managing releases and application stability.\nHighlights of features include chat functionality between student and tutors, local chat bot & in-line webview to support displaying and communicating with webapp for cross platform features",
+        "Led and grew iOS and Android teams, architected & built features end to end for both platforms, managing releases and application stability to <1% crash rate from 100k to 1M+ users.\nProposed and led architechtual shift to MVVM on Android. Resulting in a 100% increase in sprint velocity & 20% reduction in customer reported bugs.",
     },
     {
       company: "LoopUp",
@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       start: "2015",
       end: "2016",
       description:
-        "Core feature team member responsible for maintaining core online platform and developing new award winning web VOIP client (ReactJS).",
+        "Core feature team member responsible for maintaining online platform (frontend) and developing new award winning web VOIP client (ReactJS).\nSpent initial 5 months building python test framework whilst maintaining and extending existing Android application.\nExperienced successful IPO on London Stock Exchange.",
     },
   ],
   skills: [
